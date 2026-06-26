@@ -14,6 +14,7 @@ play.
 | [`songs/romantic-flight.js`](songs/romantic-flight.js) | Romantic Flight | John Powell — *How to Train Your Dragon* | B major · 3/4 · 96 |
 | [`songs/hes-a-pirate.js`](songs/hes-a-pirate.js) | He's a Pirate | Klaus Badelt / Hans Zimmer — *Pirates of the Caribbean* | D minor · 6/8 · 200 |
 | [`songs/one-day.js`](songs/one-day.js) | One Day | Hans Zimmer — *Pirates of the Caribbean: At World's End* | D minor · 4/4 · 85 |
+| [`songs/hijo-de-la-luna.js`](songs/hijo-de-la-luna.js) | Hijo de la Luna | Mecano | C minor · 3/4 · 172 |
 
 ## Notation conventions
 
